@@ -1,3 +1,5 @@
 site_name: Lista lorello
-
-theme: amelia
+site_description: "Ho un disco da un Tera, non sapevo mai cosa c'era dentro"
+site_author: "LoreLLo"
+use_directory_urls: false
+#theme: amelia
