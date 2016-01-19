@@ -11,3 +11,4 @@
 * [Only Lovers Left Alive (2013)](Only Lovers Left Alive (2013))
 * Seven [1].avi
 * Seven [2].avi
+* [The Lords of Salem (2012) - Le Streghe di Salem](The Lords of Salem (2012) - Le Streghe di Salem)

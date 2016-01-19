@@ -1,6 +1,7 @@
 * Ghost In The Shell - Solid State Society (Sub Ita).avi
 * [1972 - Solaris (Соларис)](1972 - Solaris (Соларис))
 * 2002 La Seconda Odissea.avi
+* A Scanner Darkly - Un Oscuro Scrutare 2006.avi
 * Aeon Flux (2005 iTALiAN MD TC XviD-SiLENT).avi
 * Apes Revolution Il - Pianeta Delle Scimmie.mkv
 * Blackhat (2015).avi
@@ -25,7 +26,6 @@
 * [L'uomo che fuggì dal futuro](L'uomo che fuggì dal futuro)
 * Lei (2013).flv
 * Looper.avi
-* [Pacific Rim (2013) BRrip XviD ITA-ENG Ac3 -Shiv@](Pacific Rim (2013) BRrip XviD ITA-ENG Ac3 -Shiv@)
 * Pacific Rim (2013).avi
 * Pacific Rim.avi
 * Predestination.avi

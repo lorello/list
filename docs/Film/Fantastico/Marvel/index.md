@@ -1,5 +1,4 @@
 * Captain America - the winter soldier.mkv
-* Hellboy (2005).avi
 * Iron Man.avi
 * Sin City - Una donna per cui uccidere (2014).avi
 * [Spiderman](Spiderman)

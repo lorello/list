@@ -4,10 +4,10 @@
 * Hancock (2008).avi
 * Hunger Games - II - La ragazza di fuoco.avi
 * Hunger Games.avi
-* Il Labirinto del Fauno.avi
 * James McTeigue - V per vendetta (2005).avi
 * La Bussola D'oro (2007).avi
 * Le Cronache Di Narnia Il Viaggio Del Veliero (2010).avi
+* Lo Hobbit - UnViaggio Inaspettato - 2012.mkv
 * Mary Poppins [1] - (1964) con Julie Andrews.avi
 * Mary Poppins [2] - (1964) con Julie Andrews.avi
 * Oblivion (2013) con Tom Cruise, Morgan Freeman, Olga Kurylenko.avi

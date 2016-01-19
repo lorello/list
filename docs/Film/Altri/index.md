@@ -1,22 +1,4 @@
 * La mia vita a Garden State (Zach Braff, 2005).avi
-* A Scanner Darkly Un Oscuro Scrutare 2006 Italian Ld Dvdscr Xvid-Silent.avi
-* About.Elly.(tremore)Italia-film.CD1.avi
-* Alla Ricerca dell'Isola di Nim.2008.iTALiAN.dvdrip.avi.avi
-* Amabili.Resti.2009.iTALiAN.MD.DVDSCR.VERSiON.1CD.XViD-ENiG (2).avi
-* American Sunshine.avi
-* American.Trip.-.iTALiAN.DVDRip.XviD-WhOiS.avi
-* An.Education.2009.iTALIAN.MD.DVDSCR.XViD-THEMA.avi
-* Bastardi senza gloria.avi
-* Bellas Mariposas (2012) DVDrip Italian Ac3 -Shiv@.avi
-* BOX_507.avi
-* Broken Flowers (2005, Bill Murray DVDScr).avi
-* Bubba Ho-Tep (sub ita).avi
-* Cam Girl.avi
-* Cargo.200.2008.iTALiA.R5.XViD-TMA.avi
-* Casino Royale (2006).avi
-* Codice Homer.avi
-* Colpo d'occhio.avi
-* Corpo Celeste - 2011.avi
 * Cose dell'altro mondo - 2011.avi
 * Cose nostre – Malavita (2013).mp4
 * Cowgirl - Il nuovo sesso.avi
@@ -25,7 +7,6 @@
 * Cuore Sacro.avi
 * Diaz.Non.Pulire.Questo.Sangue.2012.iTALiAN.DVDRip.XviD-TRL[MT].avi
 * Diciottanni.Il.Mondo.Ai.Miei.Piedi.2011.iTALiAN.DVDRip.XviD-TRL[gogt].avi
-* Donne senza uomini.avi
 * dott t donn.avi
 * Dr.Plonk.2008.avi
 * E.Venne.Il.Giorno.2008.iTALiAN.DVDRip.XviD-iMP[gogt].avi
@@ -33,8 +14,6 @@
 * Era.Mio.Padre.2002.iTALiAN.BDRip.XviD-TRL.CD1.avi
 * Era.Mio.Padre.2002.iTALiAN.BDRip.XviD-TRL.CD2.avi
 * Factotum con Matt Dillon (2005 Italian Dvdscr Xvid-Rivolts).avi
-* La.Profezia.Di.Kaena.(Animazione).DvdRip.[By.Caly-AsTrA]160.KBPS.avi
-* [La.Ragazza.Che.Giocava.Con.Il.Fuoco.2009.iTALiAN.LD.DVDRip.XviD-SiLENT.avi](La.Ragazza.Che.Giocava.Con.Il.Fuoco.2009.iTALiAN.LD.DVDRip.XviD-SiLENT.avi)
 * La.Straniera.2009.iTALiAN.DVDRip.XviD-TRL.CD1.avi
 * La.Straniera.2009.iTALiAN.DVDRip.XviD-TRL.CD2.avi
 * La.Versione.Di.Barney.2010.iTALiAN.BDRip.XviD-TRL.CD1.avi
@@ -55,22 +34,20 @@
 * Giuseppe Tornatore - La Sconosciuta (Ita 2006).avi
 * Gomorra (2008).avi
 * Guida Galattica Per Autostoppisti (Dvd-Ita-Dolby).avi
-* Central do Brasil [DvdRip ITA].avi
 * Diario di uno scandalo (2006).avi
 * False Verita con Kevin Bacon (2005.iTALiAN.MD.DVDRip.XviD-RiVoLTs).avi
 * Habemus.Papam.2011.iTALiAN.DVDRip.XviD-TRL[gogt].avi
 * I Figli di Dune - miniserie TV 2003.mp4
 * Il mio nome è Totsi.avi
 * Il.Caimano.2006.iTALiAN.DVDRip.Ac3.XviD-Ar3a.CD1.avi
+* Impiegati Male (1999, di Mike Judge, con Jennifer Aniston).avi
 * JET LAG - Jean Reno - Juliette Binoche [DivX - ITA].avi
 * L'arte di cavarsela - 2011.avi
 * l.uomo.che.venne.dalla.terra.2007.italian.avi
 * Hanna - 2011.avi
-* [Hesher e Stato Qui SUB ITA 2011 DVDRip IScrew](Hesher e Stato Qui SUB ITA 2011 DVDRip IScrew)
 * hlls ktchn.avi
 * Holy smoke - Fuoco sacro.avi
 * Hostage.avi
-* [Hugo Cabret 2012 iTALiAN MD 720p BRRiP x264 - TrTd_TeaM](Hugo Cabret 2012 iTALiAN MD 720p BRRiP x264 - TrTd_TeaM)
 * Human nature.avi
 * I 400 colpi - Trouffaut.avi
 * I colori dell'anima - Modigliani.avi
@@ -88,7 +65,6 @@
 * Il dilemma - 2011.avi
 * Il discorso del re.avi
 * Il falsario-Operazione Bernhard (2008).avi
-* [Il Futuro (2013) Ita Ac3 Sub Eng XviD](Il Futuro (2013) Ita Ac3 Sub Eng XviD)
 * Il Gladiatore.avi
 * Il.Cigno.Nero.2010.iTALiAN.MD.RESYNC.BDRip.XviD-ZEN.CD2.avi
 * Il.Cigno.Nero.2010.iTALiAN.RESYNC.MD.BDRip.XviD-ZEN.CD1.avi
@@ -97,9 +73,7 @@
 * Il.Riccio.2009.iTALiAN.LD.DVDRip.XviD-SiLENT.avi
 * Il.Segreto.Dei.Suoi.Occhi.2009.iTALiAN.MD.DVDRip.XviD-FREE.CD1.avi
 * Il.Segreto.Dei.Suoi.Occhi.2009.iTALiAN.MD.DVDRip.XviD-FREE.CD2.avi
-* [Il.Velo.Dipinto.2006.iTALiAN.DVDRip.XviD-TRL[S.o.M.]](Il.Velo.Dipinto.2006.iTALiAN.DVDRip.XviD-TRL[S.o.M.])
 * Il.Vento.Che.Accarezza.L'Erba - The Wind That Shakes The Barley.avi
-* Impiegati Male (1999, di Mike Judge, con Jennifer Aniston).avi
 * In Her Shoes.Se Fossi Lei -2005-ScR-EXODiA.avi
 * Into the wild - 2008.avi
 * Intrigo A Berlino 2006 Italian Md Dvdscr Xvid-Loud.avi
@@ -121,8 +95,6 @@
 * La Casa Sul Lago Del Tempo (2006).avi
 * La Cena Per Farli Conoscere (Italia 2006, Commedia Con Vanessa Incontrada, Ines Sastre, Violante Placido, Diego Abatantuono, Francesca Neri).avi
 * La Citta Proibita (di Zhang-Yimou con Gong-Li).avi
-* La Fame E La Sete (Antonio Albanese).avi
-* [La Foresta Di Ghiaccio (2014).ita.sub.ita.eng.MIRCrew.multisub](La Foresta Di Ghiaccio (2014).ita.sub.ita.eng.MIRCrew.multisub)
 * La fuga di Martha-2011-Dvdrip-Xvid-Ita-Ac3[MT].avi
 * La leggenda degli uomini straordinari.avi
 * La Leggenda Di Bagger Vance.avi
@@ -134,7 +106,6 @@
 * Le biciclette di Pechino - Xiaoshuai Wang - 2001.avi
 * Le Conseguenze dell'Amore (2004).avi
 * Le idi di Marzo - 2011.avi
-* [Le mele di Adamo](Le mele di Adamo)
 * Le quattro volte - 2010.avi
 * le ragazze dello swing (2010) parte 1.avi
 * le ragazze dello swing (2010) parte 2.avi
@@ -155,7 +126,6 @@
 * Lettere da Iwo Jima - regia Clint Eastwood (guerra 2007 USA) .avi
 * Liberate i pesci.avi
 * Listening - In Ascolto.avi
-* [Lo.Hobbit.Un.Viaggio.Inaspettato.2012.iTA.EnG.AC3.1080p.BrRiP.x264-TrTd_TeaM](Lo.Hobbit.Un.Viaggio.Inaspettato.2012.iTA.EnG.AC3.1080p.BrRiP.x264-TrTd_TeaM)
 * London Boulevard - 2010.avi
 * Lost In Translation (dvd rip).avi
 * L'Assedio.avi
@@ -230,7 +200,6 @@
 * Racconti-Da.Stoccolma.2006.iTALiAN.MD.DVDRip.XviD-Bigshark.avi
 * Ran - Kurosawa Akira - 1985.avi
 * Resident.Evil.AfterLife.2010.iTALiAN.DVDRip.XviD-SKiN.avi
-* [Revolutionary Road - 2008](Revolutionary Road - 2008)
 * Riparo.2007.iTALiAN.DVDRiP.XviD-DeLuXe.avi
 * Romanzo Criminale - Michele Placido - DVDRip.divx
 * Romanzo di una strage - 2012.avi
@@ -255,7 +224,7 @@
 * The Aviator - Leonardo Dicaprio, Cate Blanchett, Kate Beckinsale, Jude Law, Gwen Stefani.avi
 * The Butler - Un Maggiordomo alla Casa Bianca (2013).avi
 * The Departed - Il Bene e il Male - Regia di Martin Scorsese 2006 iTA.avi
-* [La.Pelle.Che.Abito.2011.iTALiAN.MD.BRRip.MKV-TrTd_CREW](La.Pelle.Che.Abito.2011.iTALiAN.MD.BRRip.MKV-TrTd_CREW)
+* La.Profezia.Di.Kaena.(Animazione).DvdRip.[By.Caly-AsTrA]160.KBPS.avi
 * Lady In The Water (2006 Italian Internal Ld Ts Xvid-Silent).avi
 * Le rose del deserto (monicelli 2006).avi
 * Love Actually - L'amore davvero con Hugh Grant (2003).avi
@@ -268,7 +237,7 @@
 * Spiderwick.Le.Cronache.2008.iTALiAN.DVDRip.XviD-T4P3.avi
 * THE GOOD SHEPHERD L'Ombra Del Potere 2007.avi
 * The.Pacific.Disc.1.2010.iTALiAN.STV.AC3.DVDRip.XviD-GBM.avi
-* Tomboy - 2011.avi
+* Train De Vie - Moni Ovadia.avi
 * Un.Perfetto.Gentiluomo.2010.iTALiAN.MD.BDRip.Xvid-TNZ.CD1.avi
 * The.Possession.2012.iTALiAN.MD.TS.XviD-BmA.avi
 * The.Tomorrow.Series.Il.Domani.Che.Verra.2010.iTALiAN.MD.BDRip.XviD-BmA-W[filmseriepassion].avi
@@ -282,8 +251,6 @@
 * The Grandmaster (2013) DVDrip x264 Italian Ac3 -Shiv@.mkv
 * The Hottest State (L'amore Giovane) di H. Hawke - 2007.avi
 * The Housemaid - 2010.avi
-* [The Lords of Salem (2012) DVDrip ENG-ITA Ac3 - Le Streghe di Salem -Shiv@](The Lords of Salem (2012) DVDrip ENG-ITA Ac3 - Le Streghe di Salem -Shiv@)
-* [The Man with the Iron Fists (DVDrip ENG-ITA Ac3 Multisub XviD) - L'uomo Con i Pugni Di Ferro](The Man with the Iron Fists (DVDrip ENG-ITA Ac3 Multisub XviD) - L'uomo Con i Pugni Di Ferro)
 * The Millionaire 2008.avi
 * The Others.AVI
 * The Peacemaker (George Clooney - Nicole Kidman).avi
@@ -296,30 +263,23 @@
 * The.Eagle.2011.iTALiAN.DVDRip.XviD-TRL[gogt].avi
 * The.German.Doctor.Wakolda.2013.iTALiAN.DVDRip.XviD-TRL.avi
 * The.Master.2012.iTALiAN.AC3.BRRip.XviD-T4P3.avi
-* Train De Vie - Moni Ovadia.avi
 * Transamerica 2005 (Md Dvdscr Xvid-c14K).avi
 * TROY.avi
-* Tu Chiamami Peter.avi
 * Turne' (regia Salvatores - con Abatantuono).avi
 * Tutti Gli Uomini Del Re (2006) Cd1.avi
 * Tutti Gli Uomini Del Re (2006) Cd2.avi
 * Tutti Pazzi Per Rose (2012) DVDrip Italian XviD Ac3 -Shiv@.avi
 * Tutto puo succedere (Oper@) DivX-Ita-scr.avi
-* [Tutto.Tutto.Niente.Niente.2012.iTALiAN.AC3.5.1.1080p.BrRiP.x264-TrTd_TeaM](Tutto.Tutto.Niente.Niente.2012.iTALiAN.AC3.5.1.1080p.BrRiP.x264-TrTd_TeaM)
 * Un Bacio Romantico (2007).avi
 * Un Ponte Per Terabithia.avi
 * Un.Perfetto.Gentiluomo.2010.iTALiAN.MD.BDRip.Xvid-TNZ.CD2.avi
 * Una Cosa Chiamata Felicita'.avi
 * Una tragica scelta - Inhale - 2010.avi
-* Una.Notte.Da.Leoni.2009.iTAL.MD.DVDSCR.XviD-SiLENT.avi
 * Unbreakable-Il Predestinato con Bruce Willis.avi
 * Vacancy (2006).avi
-* Vallanzasca gli angeli del male - 2010 - 1.avi
-* Vallanzasca gli angeli del male - 2010 - 2.avi
 * Vendicami.avi
 * Venere nera - 2010.avi
 * Vengo a prenderti (2006).avi
-* [Vero.Come.La.Finzione.2006.iTALiAN.LD.DVDRip.XviD.2CD-LOUD](Vero.Come.La.Finzione.2006.iTALiAN.LD.DVDRip.XviD.2CD-LOUD)
 * Viva.L.Italia.2012.iTALiAN.DVDRip.XviD-TRL[MT].avi
 * Vive l'amour - Tsai Ming-Liang.avi
 * Wasabi.2001.BDrip.720p.x264.iTa.Ac3.FrE.Mp3.Subs.[dr.Mzu].mkv
